@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "nodemailer": "^4.6.7",
+    "nodemon": "^1.18.3",
+    "xoauth2": "^1.2.0"
+  },
+  "name": "Nodemailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
